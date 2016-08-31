@@ -1,0 +1,6 @@
+C:\Users\NTTA7_000\Desktop\Programming\SortingAlgorithmSOL\Sorting Algorithm\bin\Debug\Sorting Algorithm.exe.config
+C:\Users\NTTA7_000\Desktop\Programming\SortingAlgorithmSOL\Sorting Algorithm\bin\Debug\Sorting Algorithm.exe
+C:\Users\NTTA7_000\Desktop\Programming\SortingAlgorithmSOL\Sorting Algorithm\bin\Debug\Sorting Algorithm.pdb
+C:\Users\NTTA7_000\Desktop\Programming\SortingAlgorithmSOL\Sorting Algorithm\obj\Debug\Sorting Algorithm.csprojResolveAssemblyReference.cache
+C:\Users\NTTA7_000\Desktop\Programming\SortingAlgorithmSOL\Sorting Algorithm\obj\Debug\Sorting Algorithm.exe
+C:\Users\NTTA7_000\Desktop\Programming\SortingAlgorithmSOL\Sorting Algorithm\obj\Debug\Sorting Algorithm.pdb
